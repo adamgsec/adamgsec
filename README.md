@@ -11,7 +11,7 @@ I have just created my Github Page (25th Feb 2025!) and I am looking to use it a
 
 ## 🌱 I’m currently learning ...
 - Penetration Testing Methodologies & Tools
-- Starting my Own Github Writeup pages for HTB Machines
+- Starting my Own Github Writeup pages for HTB & THM Machines
 - Deepening my understanding of Common Application Vulnerabilities
 
 ## 💞️ I’m looking to expand on ...
